@@ -31,7 +31,7 @@ Clone this repository to your Claude Code skills directory:
 mv ~/.config/opencode/skill ~/.config/opencode/skill.backup
 
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/opencode-skills.git ~/.config/opencode/skill
+git clone https://github.com/Joseph19820124/opencode-skills.git ~/.config/opencode/skill
 ```
 
 ### Install Individual Skills
@@ -42,7 +42,7 @@ You can also install individual skills:
 cd ~/.config/opencode/skill
 
 # Install java-upgrade skill
-git clone https://github.com/YOUR_USERNAME/opencode-skills.git temp
+git clone https://github.com/Joseph19820124/opencode-skills.git temp
 mv temp/java-upgrade ./
 rm -rf temp
 ```
@@ -140,7 +140,7 @@ Individual skills may have their own licenses - check each skill's directory.
 
 If you encounter any issues:
 
-- 🐛 [Open an issue](https://github.com/YOUR_USERNAME/opencode-skills/issues)
+- 🐛 [Open an issue](https://github.com/Joseph19820124/opencode-skills/issues)
 - 💬 Check existing issues and discussions
 - 📖 Review the [Claude Code documentation](https://github.com/anthropics/claude-code)
 

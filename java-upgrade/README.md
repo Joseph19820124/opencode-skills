@@ -23,9 +23,11 @@ This skill provides comprehensive guidance and automation for upgrading Java pro
 ### Install the Skill
 
 ```bash
-# Clone this skill to your Claude Code skills directory
+# Clone from the opencode-skills repository
 cd ~/.config/opencode/skill
-git clone https://github.com/YOUR_USERNAME/java-upgrade-skill.git java-upgrade
+git clone https://github.com/Joseph19820124/opencode-skills.git temp
+mv temp/java-upgrade ./
+rm -rf temp
 ```
 
 Or manually download and place the `java-upgrade` folder in `~/.config/opencode/skill/`.
